@@ -1,0 +1,7 @@
+1. Deploy the HistGradientBoosting classification pipeline as the first-line financial-distress screening model.
+2. Use probability bands rather than a binary flag so finance/risk teams can prioritize reviews.
+3. Monitor recall and PR-AUC because bankrupt firms are a small minority of the dataset.
+4. Review the top model features with finance SMEs before converting them into automated interventions.
+5. Use 2 customer/company clusters for differentiated monitoring and AI-service treatment.
+6. Use Random Forest Regressor as an auxiliary model for continuous profitability/health monitoring.
+7. Traditional time-series forecasting is not appropriate here because the supplied dataset has no date/time field; add longitudinal financial records before deploying forecasting.

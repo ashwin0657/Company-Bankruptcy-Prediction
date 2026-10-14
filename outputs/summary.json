@@ -1,0 +1,13 @@
+{
+  "rows":6819,
+  "columns_after_cleaning":95,
+  "bankruptcy_rate":0.0322627951,
+  "best_classification_model":"HistGradientBoosting",
+  "best_classification_PR_AUC":0.5366291522,
+  "best_classification_ROC_AUC":0.9568526171,
+  "best_classification_F1":0.447761194,
+  "best_cluster_k":2,
+  "best_cluster_silhouette":0.1058023402,
+  "best_regression_model":"Random Forest Regressor",
+  "best_regression_R2":0.9837315242
+}
